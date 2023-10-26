@@ -1,7 +1,3 @@
-Comit 1
-sadmasd
-
-Commit 1dfs
 # Workflows and Integration Strategies
 This assignment will incentivize you to get familiar with the different GitHub workflow strategies for:
 - integrating/merging pull requests and
